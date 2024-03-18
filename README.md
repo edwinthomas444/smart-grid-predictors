@@ -2,6 +2,8 @@
 
 Respository containing code for predicting meter readings of uOttawa FSS Main building based on external environmental factors.
 
+[Poster Document](Group_5_Poster.pdf)
+
 ## Setting up Virtual Environment
 
 ```
